@@ -21,7 +21,7 @@ The Seat Booking App allows users to book seats for various events or venues. Us
 
 1. Clone the repository to your local machine:
 
-    git clone https://github.com/SHIVanshuSingh07/seat-booking-app.git
+    git clone [https://github.com/SHIVanshuSingh07/seat-booking-app.git](https://github.com/SHIVanshuSingh07/Seat_Booking_App)
 
 
 2. Open `index.html` in your web browser to launch the application.
