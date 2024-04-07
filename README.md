@@ -6,6 +6,10 @@ This is a simple seat booking application built with HTML, CSS, and JavaScript.
 
 The Seat Booking App allows users to book seats for various events or venues. Users can view the available seats, select the desired ones, and proceed to book them. The application provides a simple and intuitive interface for users to interact with.
 
+## Screenshots
+
+![Screenshot 1](seatbooking.png)
+
 ## Features
 
 - View available seats
